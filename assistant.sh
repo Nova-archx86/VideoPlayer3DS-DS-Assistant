@@ -77,7 +77,7 @@ then
         read -p "Enter the name of the output file (ex. output.mp4): " OFILE
         dsSetup $IFILE $OFILE
     else
-       echo "Please enter ethier 2ds/ds for a target console" 
+       echo "Please enter ethier 3ds/ds for a target console" 
     fi
     
 else
